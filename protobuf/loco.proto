@@ -1,0 +1,14 @@
+syntax = "proto2";
+
+package locofs;
+
+message filename{
+	required uint64 uuid = 1;
+	required string path = 2;
+}
+
+message objectname{
+	required uint64 suuid = 1;
+	required uint64 sid = 2;
+	required uint64 oid = 3;
+}

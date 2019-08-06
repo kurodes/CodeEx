@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../../t3/lib/hello.h
+stdio.h
+-
+
+/Users/kuro/Desktop/codeEX/cmake/exProject/t4/src/main.c
+hello.h
+-
+

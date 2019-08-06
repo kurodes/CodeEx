@@ -1,3 +1,5 @@
+//g++ example.cpp -lkyotocabinet
+
 #include <kchashdb.h>
 
 using namespace std;
