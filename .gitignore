@@ -1,2 +1,6 @@
 build/*
 *.out
+*.dSYM/*
+.vscode/*
+.DS_Store
+
