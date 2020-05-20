@@ -1,0 +1,630 @@
+events: Hits
+
+fl=(1) /home/kuro/Desktop/CodeEx/gperf/app.cpp
+fn=(1) Search_Path
+12 39
+
+fl=(1)
+fn=(1)
+13 13
+
+fl=(1)
+fn=(1)
+15 11
+
+fl=(1)
+fn=(1)
+cfl=(2) /usr/include/c++/4.8.2/bits/stl_vector.h
+cfn=(2) std::vector::begin
+calls=10 538
+16 10
+
+fl=(1)
+fn=(1)
+16 28
+
+fl=(1)
+fn=(1)
+cfl=(2)
+cfn=(2)
+calls=129 539
+16 129
+
+fl=(1)
+fn=(1)
+cfl=(2)
+cfn=(2)
+calls=12 538
+17 12
+
+fl=(1)
+fn=(1)
+cfl=(2)
+cfn=(2)
+calls=147 539
+17 147
+
+fl=(1)
+fn=(1)
+17 29
+
+fl=(1)
+fn=(1)
+18 4
+
+fl=(1)
+fn=(1)
+cfl=(2)
+cfn=(3) std::vector::end
+calls=11 556
+19 11
+
+fl=(1)
+fn=(1)
+cfl=(2)
+cfn=(3)
+calls=139 557
+19 139
+
+fl=(1)
+fn=(1)
+cfl=(3) /usr/include/c++/4.8.2/bits/stl_iterator.h
+cfn=(4) __gnu_cxx::operator!=
+calls=173 825
+19 173
+
+fl=(1)
+fn=(1)
+cfl=(3)
+cfn=(4)
+calls=31 823
+19 31
+
+fl=(1)
+fn=(1)
+cfl=(3)
+cfn=(5) __gnu_cxx::__normal_iterator::operator++
+calls=10 749
+19 10
+
+fl=(1)
+fn=(1)
+cfl=(3)
+cfn=(5)
+calls=9 746
+19 9
+
+fl=(1)
+fn=(1)
+19 107
+
+fl=(1)
+fn=(1)
+cfl=(3)
+cfn=(5)
+calls=20 748
+19 20
+
+fl=(1)
+fn=(1)
+cfl=(3)
+cfn=(6) __gnu_cxx::__normal_iterator::operator*
+calls=28 738
+22 28
+
+fl=(1)
+fn=(1)
+cfl=(1)
+cfn=(1)
+calls=9 13
+22 9
+
+fl=(1)
+fn=(1)
+cfl=(1)
+cfn=(1)
+calls=4 25
+22 4
+
+fl=(1)
+fn=(1)
+cfl=(1)
+cfn=(1)
+calls=4 34
+22 4
+
+fl=(1)
+fn=(1)
+cfl=(1)
+cfn=(1)
+calls=7 35
+22 7
+
+fl=(1)
+fn=(1)
+cfl=(1)
+cfn=(1)
+calls=100 16
+22 100
+
+fl=(1)
+fn=(1)
+cfl=(3)
+cfn=(6)
+calls=39 739
+22 39
+
+fl=(1)
+fn=(1)
+cfl=(1)
+cfn=(1)
+calls=9 15
+22 9
+
+fl=(1)
+fn=(1)
+cfl=(1)
+cfn=(1)
+calls=15 12
+22 15
+
+fl=(1)
+fn=(1)
+cfl=(1)
+cfn=(1)
+calls=103 17
+22 103
+
+fl=(1)
+fn=(1)
+cfl=(1)
+cfn=(1)
+calls=27 32
+22 27
+
+fl=(1)
+fn=(1)
+22 40
+
+fl=(1)
+fn=(1)
+cfl=(1)
+cfn=(1)
+calls=3 18
+22 3
+
+fl=(1)
+fn=(1)
+cfl=(1)
+cfn=(1)
+calls=457 26
+22 457
+
+fl=(1)
+fn=(1)
+cfl=(1)
+cfn=(1)
+calls=9908 29
+22 9908
+
+fl=(1)
+fn=(1)
+25 32
+
+fl=(1)
+fn=(1)
+cfl=(2)
+cfn=(3)
+calls=10 556
+26 10
+
+fl=(1)
+fn=(1)
+cfl=(3)
+cfn=(5)
+calls=28 748
+26 28
+
+fl=(1)
+fn=(1)
+cfl=(2)
+cfn=(3)
+calls=144 557
+26 144
+
+fl=(1)
+fn=(1)
+26 67
+
+fl=(1)
+fn=(1)
+cfl=(3)
+cfn=(5)
+calls=5 746
+26 5
+
+fl=(1)
+fn=(1)
+cfl=(3)
+cfn=(4)
+calls=167 825
+26 167
+
+fl=(1)
+fn=(1)
+cfl=(3)
+cfn=(5)
+calls=10 749
+26 10
+
+fl=(1)
+fn=(1)
+cfl=(3)
+cfn=(4)
+calls=26 823
+26 26
+
+fl=(1)
+fn=(1)
+cfl=(1)
+cfn=(1)
+calls=1 18
+29 1
+
+fl=(1)
+fn=(1)
+cfl=(1)
+cfn=(1)
+calls=67 16
+29 67
+
+fl=(1)
+fn=(1)
+cfl=(1)
+cfn=(1)
+calls=1 34
+29 1
+
+fl=(1)
+fn=(1)
+cfl=(1)
+cfn=(1)
+calls=24 12
+29 24
+
+fl=(1)
+fn=(1)
+cfl=(3)
+cfn=(6)
+calls=29 738
+29 29
+
+fl=(1)
+fn=(1)
+29 39
+
+fl=(1)
+fn=(1)
+cfl=(3)
+cfn=(6)
+calls=47 739
+29 47
+
+fl=(1)
+fn=(1)
+cfl=(1)
+cfn=(1)
+calls=85 17
+29 85
+
+fl=(1)
+fn=(1)
+cfl=(1)
+cfn=(1)
+calls=2 35
+29 2
+
+fl=(1)
+fn=(1)
+cfl=(1)
+cfn=(1)
+calls=500 19
+29 500
+
+fl=(1)
+fn=(1)
+cfl=(1)
+cfn=(1)
+calls=28 25
+29 28
+
+fl=(1)
+fn=(1)
+cfl=(1)
+cfn=(1)
+calls=10705 22
+29 10705
+
+fl=(1)
+fn=(1)
+cfl=(1)
+cfn=(1)
+calls=4 13
+29 4
+
+fl=(1)
+fn=(1)
+cfl=(1)
+cfn=(1)
+calls=2 15
+29 2
+
+fl=(1)
+fn=(1)
+32 27
+
+fl=(1)
+fn=(1)
+34 5
+
+fl=(1)
+fn=(1)
+35 9
+
+fl=(1)
+fn=(7) main
+cfl=??
+cfn=(8) std::istream::operator>>
+calls=24 0
+50 24
+
+fl=(1)
+fn=(7)
+cfl=(2)
+cfn=(9) std::vector::push_back
+calls=1 903
+54 1
+
+fl=(1)
+fn=(7)
+cfl=(2)
+cfn=(9)
+calls=2 913
+54 2
+
+fl=(1)
+fn=(7)
+cfl=(1)
+cfn=(1)
+calls=48 22
+57 48
+
+fl=(1)
+fn=(7)
+cfl=(1)
+cfn=(1)
+calls=1626 29
+57 1626
+
+fl=(3)
+fn=(10) __gnu_cxx::__normal_iterator::__normal_iterator
+726 380
+
+fl=(3)
+fn=(6)
+738 57
+
+fl=(3)
+fn=(6)
+739 86
+
+fl=(3)
+fn=(5)
+746 14
+
+fl=(3)
+fn=(5)
+748 48
+
+fl=(3)
+fn=(5)
+749 20
+
+fl=(3)
+fn=(11) __gnu_cxx::__normal_iterator::base
+790 47
+
+fl=(3)
+fn=(11)
+791 94
+
+fl=(3)
+fn=(4)
+823 57
+
+fl=(3)
+fn=(4)
+cfl=(3)
+cfn=(11)
+calls=47 790
+825 47
+
+fl=(3)
+fn=(4)
+cfl=(3)
+cfn=(11)
+calls=94 791
+825 94
+
+fl=(3)
+fn=(4)
+825 199
+
+fl=(2)
+fn=(12) std::_Vector_base::_M_deallocate
+cfl=(4) /usr/include/c++/4.8.2/ext/new_allocator.h
+cfn=(13) __gnu_cxx::new_allocator::deallocate
+calls=1 110
+174 1
+
+fl=(2)
+fn=(2)
+538 22
+
+fl=(2)
+fn=(2)
+cfl=(3)
+cfn=(10)
+calls=200 726
+539 200
+
+fl=(2)
+fn=(2)
+539 76
+
+fl=(2)
+fn=(3)
+556 21
+
+fl=(2)
+fn=(3)
+cfl=(3)
+cfn=(10)
+calls=180 726
+557 180
+
+fl=(2)
+fn=(3)
+557 103
+
+fl=(2)
+fn=(9)
+903 1
+
+fl=(2)
+fn=(9)
+cfl=(5) /usr/include/c++/4.8.2/bits/vector.tcc
+cfn=(14) std::vector::_M_insert_aux
+calls=1 344
+913 1
+
+fl=(2)
+fn=(9)
+cfl=(5)
+cfn=(14)
+calls=1 386
+913 1
+
+fl=(5)
+fn=(14)
+344 1
+
+fl=(5)
+fn=(14)
+cfl=(2)
+cfn=(12)
+calls=1 174
+386 1
+
+fl=(4)
+fn=(13)
+cfl=(6) /usr/src/debug/glibc-2.17-c758a686/malloc/malloc.c
+cfn=(15) __GI___libc_free
+calls=1 2930
+110 1
+
+fl=(7) /usr/src/debug/glibc-2.17-c758a686/csu/../csu/libc-start.c
+fn=(16) __libc_start_main
+cfl=(1)
+cfn=(7)
+calls=24 50
+266 24
+
+fl=(7)
+fn=(16)
+cfl=(1)
+cfn=(7)
+calls=1674 57
+266 1674
+
+fl=(7)
+fn=(16)
+cfl=(1)
+cfn=(7)
+calls=3 54
+266 3
+
+fl=(6)
+fn=(15)
+2930 1
+
+fl=??
+fn=(17) std::num_put::do_put
+0 5
+
+fl=??
+fn=(18) std::istream::sentry::sentry
+0 3
+
+fl=??
+fn=(8)
+cfl=??
+cfn=(18)
+calls=3 0
+0 3
+
+fl=??
+fn=(19) std::num_get::do_get
+cfl=??
+cfn=(20) std::num_get::_M_extract_int
+calls=16 0
+0 16
+
+fl=??
+fn=(8)
+cfl=??
+cfn=(19)
+calls=17 0
+0 17
+
+fl=??
+fn=(20)
+cfl=??
+cfn=(17)
+calls=7 0
+0 7
+
+fl=??
+fn=(19)
+0 1
+
+fl=??
+fn=(17)
+cfl=??
+cfn=(21) std::locale::id::_M_id
+calls=2 0
+0 2
+
+fl=??
+fn=(20)
+0 7
+
+fl=??
+fn=(20)
+cfl=??
+cfn=(22) std::string::_Rep::_M_dispose
+calls=2 0
+0 2
+
+fl=??
+fn=(22)
+0 2
+
+fl=??
+fn=(8)
+0 4
+
+fl=??
+fn=(21)
+0 2
+
