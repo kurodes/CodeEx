@@ -1,4 +1,7 @@
+build/
 build/*
+bin/
+bin/*
 *.out
 *.dSYM/*
 .vscode/*
