@@ -4,6 +4,7 @@
 #include <algorithm>
 #include <gtest/gtest.h>
 #include <assert.h>
+#include <math.h>
 
 using namespace std;
 
